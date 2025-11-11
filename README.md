@@ -15,8 +15,6 @@ O projeto foi realizado em colaboração com mais dois colegas, tornando-se um �
 
 - `projetoPratico.cpp` – Arquivo-fonte principal em C++.
 - `spotify100.csv` / `Spotify100.bin` – Dados de entrada utilizados pela aplicação.
-- `.vscode/` – Configurações de desenvolvimento para o Visual Studio Code.
-- `README.md` – Documentação deste repositório.
 
 ---
 
